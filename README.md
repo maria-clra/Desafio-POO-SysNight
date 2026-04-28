@@ -8,15 +8,7 @@ O objetivo foi criar uma classe `Personagem` contendo atributos e métodos que s
 
 Foram trabalhados conceitos como criação de classes, objetos, métodos de instância e interação entre objetos, além da utilização da biblioteca Rich para uma exibição mais visual no terminal.
 
-## 🚀 Conceitos aplicados
-
-* Classes e Objetos
-* Métodos de instância
-* Encapsulamento básico
-* Interação entre objetos
-* Lógica de combate
-
-## ▶️ Estrutura do dedsafio
+## ▶️ Estrutura do desafio
 
 * Criar personagens com nome, vida e ataque
 * Exibir status atual
